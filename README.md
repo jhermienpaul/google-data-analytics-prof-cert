@@ -56,36 +56,43 @@
    - Conduct an analytical thinking self assessment giving specific examples of the application of analytical thinking.
    - Discuss the role of spreadsheets, query languages, and data visualization tools in data analytics.
    - Describe the role of a data analyst with specific reference to jobs.
+
 2. **Ask Questions to Make Data-Driven Decisions**  
    - Explain how the problem-solving road map applies to typical analysis scenarios.
    - Discuss the use of data in the decision-making process.
    - Demonstrate the use of spreadsheets to complete basic tasks of the data analyst including entering and organizing data.
    - Describe the key ideas associated with structured thinking.
+
 3. **Prepare Data for Exploration**  
    - Explain what factors to consider when making decisions about data collection.
    - Discuss the difference between biased and unbiased data.
    - Describe databases with references to their functions and components.
    - Describe best practices for organizing data.
+
 4. **Process Data from Dirty to Clean**  
    - Define different types of data integrity and identify risks to data integrity.
    - Apply basic SQL functions to clean string variables in a database.
    - Develop basic SQL queries for use on databases.
    - Describe the process of verifying data cleaning results.
+
 5. **Analyze Data to Answer Questions**  
    - Discuss the importance of organizing your data before analysis by using sorts and filters.
    - Convert and format data.
    - Apply the use of functions and syntax to create SQL queries to combine data from multiple database tables.
    - Describe the use of functions to conduct basic calculations on data in spreadsheets.
+
 6. **Share Data Through the Art of Visualization**
    - Describe the use of data visualizations to talk about data and the results of data analysis.
    - Identify Tableau as a data visualization tool and understand its uses.
    - Explain what data driven stories are including reference to their importance and their attributes.
    - Explain principles and practices associated with effective presentations.
+
 7. **Data Analysis with R Programming**  
    - Describe the R programming language and its programming environment.
    - Explain the fundamental concepts associated with programming in R including functions, variables, data types, pipes, and vectors.
    - Describe the options for generating visualizations in R.
    - Demonstrate an understanding of the basic formatting in R Markdown to create structure and emphasize content.
+
 8. **Capstone Project**  
    - Identify the key features and attributes of a completed case study.
    - Apply the practices and procedures associated with the data analysis process to a given set of data.
