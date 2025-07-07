@@ -98,13 +98,12 @@
 ### 🚀 How to use this repo
 
 This repo is open source! Feel free to:
-- 👀 **Browse** the course notes, case studies, and project files
+- 👀 **Browse** the course readings, exercises, and case studies
 - 💻 **Fork/clone** for your own self-study or review
-- 📝 **Remix** templates, SQL queries, or Tableau dashboards for your learning
 - 🤝 **Collaborate** by submitting issues or improvements via pull requests
-- 🧑‍💻 **Get inspired** if you’re preparing to be a data professional or want to level up your data skills
-> **Disclaimer:**  
-> All content is for educational purposes and is shared to help aspiring data analysts. Please don’t submit this work as your own in graded/certified assessments—let’s keep it ethical!
+- 🌟 **Get inspired** if you’re preparing to be a data professional or want to level up your data skills
+> **Disclaimer:**
+> All content is for educational purposes only and is shared to help aspiring data professionals. Please don’t submit this work as your own in graded assessments—let’s keep it ethical!
 
 ---
 
