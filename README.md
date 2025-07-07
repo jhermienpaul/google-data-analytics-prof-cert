@@ -10,7 +10,7 @@
 
 ![Certificate](./Google%20Data%20Analytics%20Professional%20Certificate.png)
 
-[![Verify this certificate on Credly](https://img.shields.io/badge/Credly-View%20Credential-blue?logo=credly)](https://www.credly.com/badges/0b6c2963-c297-4207-8fd3-2b9c99711b11)
+[![Verify this certificate on Credly](https://img.shields.io/badge/Credly-View%20Credential-blue?logo=credly)](https://www.credly.com/users/jhermienpaul/badges)
 
 ---
 
