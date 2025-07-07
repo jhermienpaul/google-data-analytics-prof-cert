@@ -46,7 +46,6 @@
 - **ACE® College Credit Recommendation:** Up to 12 credits toward select universities in the US
 - **Google Career Certificates Employer Consortium:** Access to 150+ top employers (Google, Accenture, Deloitte, Verizon, and more)
 - **2.8M+ learners** and 75% of U.S. grads report a positive career outcome within 6 months
-- **Updated May 2025:** Includes AI-powered career tools for resume & interview prep
 
 #
 
